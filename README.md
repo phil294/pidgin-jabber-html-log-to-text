@@ -1,0 +1,1 @@
+# pidgin-jabber-html-log-to-text
